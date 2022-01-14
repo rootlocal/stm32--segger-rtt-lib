@@ -1,4 +1,4 @@
-# stm32--segger-rtt-lib
+# stm32-segger-rtt-lib
 
 * https://wiki.segger.com/RTT
 
